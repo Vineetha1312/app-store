@@ -1,0 +1,15 @@
+.button {
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+  border: none;
+  color: #7b8794;
+  font-size: 13px;
+  font-weight: bold;
+}
+.tab-item-container {
+  list-style: none;
+}
+.active-tab-btn {
+  color: #2563eb;
+}
